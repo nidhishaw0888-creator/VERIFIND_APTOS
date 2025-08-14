@@ -1,0 +1,15 @@
+[package]
+name = "verifind_aptos_"
+version = "1.0.0"
+authors = []
+
+[addresses]
+maha_addr = "9acffec223d89a12926a56e855ea53594dcd7752da273edf8149fc763c100568"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
