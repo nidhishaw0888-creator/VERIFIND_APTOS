@@ -1,77 +1,76 @@
-# VeriFind - Blockchain-Verified Missing Person Alert System
+ VeriFind - Blockchain-Verified Missing Person Alert System
 
-## Project Description
+Project Description
 
 VeriFind revolutionizes missing person recovery by creating the world's first blockchain-verified alert network that combines institutional authority with community power. Built on immutable distributed ledger technology, VeriFind ensures every missing person case and citizen report is cryptographically verified, timestamped, and permanently preserved.
 
 The platform transforms traditional missing person investigations through a dual-layer verification system where authorized agencies register cases using encrypted data protocols that protect sensitive information while enabling public verification through blockchain hashes. This creates an unprecedented level of trust and transparency in missing person cases.
 
-## Project Vision
+Project Vision
 
 To create a decentralized, trustless ecosystem where missing person recovery becomes a community-driven effort powered by blockchain technology. Our vision is to eliminate the critical "golden hours" delay by instantly mobilizing verified community networks while maintaining the highest standards of privacy protection and evidence integrity.
 
 We envision a world where every smartphone becomes a potential lifeline, every citizen becomes a verified contributor to search efforts, and no missing person case ever goes unnoticed or unverified.
 
-## Key Features
+ Key Features
 
-### 🔐 Blockchain-Verified Case Registry
+ Blockchain-Verified Case Registry
 - Immutable storage of encrypted case details with cryptographic hash verification
 - Privacy-protected sensitive information while enabling public case authentication
 - Tamper-proof case records with permanent blockchain timestamps
 
-### 🌍 Community Alert Network
+ Community Alert Network
 - Real-time, location-based alerts to verified community members
 - Geo-fenced notifications when someone goes missing in user vicinity
 - Cross-border compatibility for international missing person cases
 
-### 📍 Immutable Tip Submission System
+ Immutable Tip Submission System
 - Blockchain-verified citizen reports with GPS coordinates and media hashes
 - Timestamped evidence chain that prevents data manipulation
 - Anonymous tip submission with optional reward claiming
 
-### 💰 Smart Reward Distribution
+ Smart Reward Distribution
 - Automated cryptocurrency bounties for verified leads
 - Transparent reward pool management through smart contracts
 - Incentivized community participation with fair compensation
 
-### 👥 Multi-Stakeholder Access Control
+ Multi-Stakeholder Access Control
 - Role-based permissions for law enforcement, NGOs, families
 - Authorized entity verification system
 - Secure data access without compromising investigation integrity
 
-### 🔍 Advanced Search & Analytics
+ Advanced Search & Analytics
 - Pattern recognition across multiple cases
 - Predictive modeling for high-risk areas and timeframes
 - Real-time case status updates and progress tracking
 
-## Future Scope
+ Future Scope
 
-### Phase 1: Core Platform Development
+ Phase 1: Core Platform Development
 - Deploy smart contracts on Aptos blockchain
 - Launch web and mobile applications
 - Implement basic case registration and tip submission
 
-### Phase 2: AI Integration
+ Phase 2: AI Integration
 - Machine learning algorithms for tip verification
 - Automated pattern recognition across cases
 - Predictive analytics for missing person hotspots
 
-### Phase 3: Global Expansion
+Phase 3: Global Expansion
 - Multi-language support and localization
 - Integration with international law enforcement databases
 - Cross-border case coordination protocols
 
-### Phase 4: Advanced Features
+ Phase 4: Advanced Features
 - Facial recognition integration with privacy protection
 - IoT device integration (security cameras, smart devices)
 - Satellite imagery analysis for search area optimization
 
-### Phase 5: Ecosystem Growth
+ Phase 5: Ecosystem Growth
 - API marketplace for third-party developers
 - Integration with existing emergency response systems
 - Community governance through DAO implementation
 
-## Contract Details
+ Contract Details
 
 0x12796274dccba6e169e118ba570850f79a877a3ccb0338cc1ad52906a288a005
-![alt text](<Screenshot 2025-08-14 115528.png>)
